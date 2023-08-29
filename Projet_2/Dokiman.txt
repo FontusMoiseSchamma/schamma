@@ -1,0 +1,33 @@
+Tit Dokiman: Gid pou sevi ak Editè Teks Dosye nan Python
+
+Pwopozisyon: Dokiman sa bay yon gid detaye sou kòman pou ou sevi epi modifye dosye tèks nan Editè Teks Dosye nan Python.
+
+Kontni Dokiman:
+
+	1. Enstriksyon pou Kòmanse:
+	   Avan ou kòmanse, asire ou ke ou gen Python enstale sou òdinatè ou.
+
+	2. Kreye yon Dosye Teks Echantiyon:
+	   Kreye yon dosye tèks echantiyon nan menm dosye ak kòd la. Ou ka rele dosye sa "echantiyon.txt". Nan dosye tèks sa, ekri kèk linye tèks pou w ka fè tès nan Editè Teks Dosye a.
+	   Men mwen te gentan kreye on dosye tèks "sample.txt" pou ou te ka teste Editè Teks Dosye a.
+
+	3. Sèvi ak Editè Teks Dosye a:
+	   Lè ou ekzekite kòd la, ou pral gen yon meni ki ap afiche nan terminal la, oubyen nan Editè Teks Python wap itilize a. 
+	   Swiv direksyon yo (1,2,3,4,5,6) nan meni a pou li, afiche, modifye, netwaye,epi anrejistre dosye tèks ou yo.
+
+	4. Egzamp itilizasyon:
+	   1.Read Text File: Chwazi opsyon "Read Text File" epi antre chimen dosye tèks ou vle li a.
+
+	   2.Display Text: Chwazi opsyon "Display Text" pou afiche kontni tèks la.
+
+	   3.Update Text: Nan opsyon "Update Text", wap ka modifye tèks la.
+	     Wap jwenn 2 lot opsyon ki se: (1. Add to the end / 2. Insert at a specific index)
+	     -Nan opsyon "Add to the end", wap ka ajoute sou tèks la.
+	     -Nan opsyon "Insert at a specific index", wap ka ajoute kontni nan yon endèks espesifik.
+	     NB:Depi ou fin modifye tèks nan dosye a, wap ekri "done" sou yon nouvo liy.
+
+	   4.Clean Text: Nan opsyon "Clean Text", wap ka netwaye tèks la. Sa vle di (retire espas devan ak dèyè, epi retire karaktè espesyal).
+
+	   5.Save Text: Nan opsyon "Save Text", wap ka anrejistre kontni a nan dosye tèks la.
+
+	   6.Exit: Nan opsyon "Exit", pwojè a pral fèmen.
