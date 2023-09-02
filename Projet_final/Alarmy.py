@@ -20,7 +20,7 @@ def alam():
             time.sleep(t)
         
         global son
-        son_path = 'mixkit-warning-alarm-buzzer-991.wav'  # Remplacez 'kirk.mp3' par le chemin complet de votre fichier audio
+        son_path = 'Alam.wav'  # Remplacez 'kirk.mp3' par le chemin complet de votre fichier audio
         if os.path.exists(son_path):
             if son:
                 son.stop()
